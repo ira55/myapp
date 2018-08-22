@@ -2,7 +2,7 @@
   "name": "myappdb",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ira55/my_app.git",
+  "repository": "https://github.com/ira55/myapp.git",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
